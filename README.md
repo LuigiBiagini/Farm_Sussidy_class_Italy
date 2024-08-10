@@ -19,4 +19,3 @@
 | Verifica     | Service column                                                                                      |
 | AEC          | Rural Development Programs Annual Payments - AgroEnvironmental Schemes - only AgroEnvironmental Climate measures |
 | RDP_A_BIO    | Rural Development Programs Annual Payments - AgroEnvironmental Schemes - only Organic support       |
-|--------------|-----------------------------------------------------------------------------------------------------|
