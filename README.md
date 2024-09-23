@@ -1,4 +1,4 @@
-# Farm_Sussidy_class_Italy
+# Farm_Subsidy_class_Italy
 ## Classification of the subsidies on the FADN relied on this class:
 
 | Code         | Description                                                                                         |
